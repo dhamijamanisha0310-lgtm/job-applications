@@ -1,18 +1,20 @@
-# AI/ML Developer
+#postgres senior dba
+Based on the image provided, here is the extracted text for the Skills and Responsibilities sections of the job description:
+
 Skills:
-OCR tools (Tesseract or equivalent)
+PostgreSQL schema design and optimization
 
-Rule engines (Drools or custom logic)
+Liquibase or Flyway for migrations
 
-Java ML libraries (Smile, Weka)
+Role-based access control
 
-Kafka integration for event-based AI triggers
+Performance tuning and audit triggers
 
 Responsibilities:
-Build OCR engine for document parsing and data extraction
+Design secure, scalable schemas for all modules
 
-Implement rule-based alerts and compliance logic
+Implement access control and encryption
 
-Integrate AI modules into backend services
+Optimize queries and indexing
 
-Optimize accuracy and performance of AI workflows
+Support rollback and migration scripts
