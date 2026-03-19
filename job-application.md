@@ -1,4 +1,4 @@
-#postgres senior dba
+# postgres senior dba
 Based on the image provided, here is the extracted text for the Skills and Responsibilities sections of the job description:
 
 Skills:
@@ -18,3 +18,23 @@ Implement access control and encryption
 Optimize queries and indexing
 
 Support rollback and migration scripts
+
+# AI/ML Deevloper 
+
+Skills:
+OCR tools (Tesseract or equivalent)
+
+Rule engines (Drools or custom logic)
+
+Java ML libraries (Smile, Weka)
+
+Kafka integration for event-based AI triggers
+
+Responsibilities:
+Build OCR engine for document parsing and data extraction
+
+Implement rule-based alerts and compliance logic
+
+Integrate AI modules into backend services
+
+Optimize accuracy and performance of AI workflows
