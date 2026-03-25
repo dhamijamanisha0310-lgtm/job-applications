@@ -1,40 +1,22 @@
-# postgres senior dba
-Based on the image provided, here is the extracted text for the Skills and Responsibilities sections of the job description:
+#GCP architect
+What You’ll Do
+Build & Scale: Design secure, scalable, cost-friendly GCP setups for web and mobile apps.
 
-Skills:
-PostgreSQL schema design and optimization
+Tool Utilization: Recommend and implement the right GCP services (Vertex AI, BigQuery, GKE, Firebase, etc.) to maximize business value.
 
-Liquibase or Flyway for migrations
+Automation: Use Terraform and CI/CD pipelines to streamline deployments.
 
-Role-based access control
+Containerization: Manage workloads on GKE for reliability and scale.
 
-Performance tuning and audit triggers
+Advisory Role: Guide the team on best practices, balancing performance with startup budgets.
 
-Responsibilities:
-Design secure, scalable schemas for all modules
+Required Skills
+3–5 years of cloud engineering experience, with strong GCP focus.
 
-Implement access control and encryption
+Solid knowledge of core GCP services (Compute Engine, GKE, Cloud Storage, VPC, IAM).
 
-Optimize queries and indexing
+Exposure to AI/ML workflows (Vertex AI, TensorFlow) and analytics (BigQuery).
 
-Support rollback and migration scripts
+Proficiency in Terraform and CI/CD automation.
 
-# AI/ML Deevloper 
-
-Skills:
-OCR tools (Tesseract or equivalent)
-
-Rule engines (Drools or custom logic)
-
-Java ML libraries (Smile, Weka)
-
-Kafka integration for event-based AI triggers
-
-Responsibilities:
-Build OCR engine for document parsing and data extraction
-
-Implement rule-based alerts and compliance logic
-
-Integrate AI modules into backend services
-
-Optimize accuracy and performance of AI workflows
+GCP certification (Architect or Data Engineer) is a plus.
